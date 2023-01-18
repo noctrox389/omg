@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				821,
+				340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tails.exe-encore Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				830,
+				307
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tails.exe-encore Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				767,
+				325
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tails.exe-encore Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				318
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tails.exe-encore Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				792,
+				335
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tails.exe-encore Up0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "TripletroubleChar/Tails.exe-Encore",
+	"position": [
+		90,
+		-30
+	],
+	"healthicon": "Tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		100
+	],
+	"camera_position": [
+		-780,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1130,
+				790
+			],
+			"anim": "fondo",
+			"fps": 24,
+			"name": "fondo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elfondo1xd",
+	"position": [
+		-60,
+		-500
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.25
+}

@@ -2,17 +2,6 @@
 	"animations": [
 		{
 			"offsets": [
-				-13,
-				-15
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
 				14,
 				18
 			],
@@ -80,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-124,
+				-24,
 				-63
 			],
 			"anim": "singDOWN",
@@ -90,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-43,
+				-15,
 				-42
 			],
 			"loop": false,
@@ -100,44 +89,55 @@
 			"name": "up"
 		},
 		{
-			"offsets": [
-				-76,
-				-40
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-36,
+				-53
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-41,
-				-55
-			],
 			"loop": false,
+			"offsets": [
+				-34,
+				-40
+			],
+			"anim": "hey",
 			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-40
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/pico1",
 	"position": [
-		-220,
-		320
+		-770,
+		410
 	],
 	"healthicon": "pico",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		183,
 		216,
 		85
 	],
 	"camera_position": [
-		250,
-		-20
+		-340,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1.4
