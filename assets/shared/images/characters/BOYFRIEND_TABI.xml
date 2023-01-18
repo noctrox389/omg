@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BOYFRIEND_TABI.png">
+<SubTexture name="BF HEY!!0000" x="414" y="879" width="413" height="410" frameX="-1" frameY="-9" frameWidth="415" frameHeight="420" />
+<SubTexture name="BF HEY!!0001" x="414" y="879" width="413" height="410" frameX="-1" frameY="-8" frameWidth="415" frameHeight="420" />
+<SubTexture name="BF HEY!!0002" x="0" y="879" width="414" height="412" frameX="-1" frameY="-7" frameWidth="415" frameHeight="420" />
+<SubTexture name="BF NOTE DOWN MISS0000" x="1856" y="392" width="378" height="388" frameX="0" frameY="-4" frameWidth="378" frameHeight="393" />
+<SubTexture name="BF NOTE DOWN0000" x="1856" y="1141" width="374" height="357" frameX="-2" frameY="-4" frameWidth="376" frameHeight="363" />
+<SubTexture name="BF NOTE DOWN0001" x="1856" y="1141" width="374" height="357" frameX="-2" frameY="-4" frameWidth="376" frameHeight="363" />
+<SubTexture name="BF NOTE DOWN0002" x="1856" y="780" width="373" height="361" frameX="-1" frameY="0" frameWidth="376" frameHeight="363" />
+<SubTexture name="BF NOTE LEFT MISS0000" x="1473" y="0" width="383" height="405" frameX="0" frameY="-27" frameWidth="384" frameHeight="433" />
+<SubTexture name="BF NOTE LEFT MISS0001" x="396" y="446" width="370" height="430" frameX="-13" frameY="0" frameWidth="384" frameHeight="433" />
+<SubTexture name="BF NOTE LEFT0000" x="1473" y="405" width="383" height="405" frameX="0" frameY="-1" frameWidth="385" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT0001" x="1473" y="405" width="383" height="405" frameX="0" frameY="0" frameWidth="385" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT0002" x="1473" y="810" width="374" height="404" frameX="-11" frameY="-2" frameWidth="385" frameHeight="407" />
+<SubTexture name="BF NOTE RIGHT MISS0000" x="0" y="1291" width="408" height="405" frameX="-7" frameY="-28" frameWidth="416" frameHeight="436" />
+<SubTexture name="BF NOTE RIGHT MISS0001" x="0" y="446" width="396" height="433" frameX="0" frameY="0" frameWidth="416" frameHeight="436" />
+<SubTexture name="BF NOTE RIGHT0000" x="408" y="1291" width="408" height="405" frameX="-1" frameY="-1" frameWidth="409" frameHeight="409" />
+<SubTexture name="BF NOTE RIGHT0001" x="408" y="1291" width="408" height="405" frameX="-1" frameY="-1" frameWidth="409" frameHeight="409" />
+<SubTexture name="BF NOTE RIGHT0002" x="827" y="879" width="407" height="407" frameX="0" frameY="0" frameWidth="409" frameHeight="409" />
+<SubTexture name="BF NOTE UP MISS0000" x="0" y="0" width="369" height="446" frameX="-10" frameY="0" frameWidth="379" frameHeight="446" />
+<SubTexture name="BF NOTE UP MISS0001" x="1113" y="0" width="360" height="426" frameX="0" frameY="-13" frameWidth="379" frameHeight="446" />
+<SubTexture name="BF NOTE UP0000" x="369" y="0" width="369" height="446" frameX="-5" frameY="0" frameWidth="375" frameHeight="447" />
+<SubTexture name="BF NOTE UP0001" x="369" y="0" width="369" height="446" frameX="-5" frameY="0" frameWidth="375" frameHeight="447" />
+<SubTexture name="BF NOTE UP0002" x="738" y="0" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447" />
+<SubTexture name="BF idle dance0000" x="1856" y="0" width="406" height="392" frameX="-1" frameY="-19" frameWidth="411" frameHeight="414" />
+<SubTexture name="BF idle dance0001" x="1856" y="0" width="406" height="392" frameX="-1" frameY="-19" frameWidth="411" frameHeight="414" />
+<SubTexture name="BF idle dance0002" x="1221" y="1291" width="408" height="394" frameX="0" frameY="-18" frameWidth="411" frameHeight="414" />
+<SubTexture name="BF idle dance0003" x="1221" y="1291" width="408" height="394" frameX="0" frameY="-17" frameWidth="411" frameHeight="414" />
+<SubTexture name="BF idle dance0004" x="816" y="1291" width="405" height="399" frameX="-3" frameY="-14" frameWidth="411" frameHeight="414" />
+<SubTexture name="BF idle dance0005" x="816" y="1291" width="405" height="399" frameX="-3" frameY="-13" frameWidth="411" frameHeight="414" />
+</TextureAtlas>
