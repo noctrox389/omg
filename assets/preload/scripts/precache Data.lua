@@ -1,0 +1,10 @@
+function onCreate()
+	precacheImage('Static/StaticNOTE_assets')
+	precacheImage('Static/staticSplash')
+	precacheImage('Phase3/xeno/BackTrees')
+	precacheImage('Phase3/xeno/FGTree1')
+	precacheImage('Phase3/xeno/FGTree2')
+	precacheImage('Phase3/xeno/Grass')
+	precacheImage('Phase3/xeno/Phase3Static')
+	precacheImage('Phase3/NewTitleMenuBG')
+end
